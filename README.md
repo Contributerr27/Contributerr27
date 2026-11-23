@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Contributerr27/Contributerr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contributerr27
 
-Here are some ideas to get you started:
+### Test automation · Java · Selenium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Small, focused contributions. Clear tests. Practical improvements.
+
+[Contribution in progress](https://github.com/seleniumboot/selenium-boot-migrator/pull/41) · [Working fork](https://github.com/Contributerr27/selenium-boot-migrator)
+
+</div>
+
+---
+
+## Focus
+
+- **Test automation:** Selenium tooling and maintainable test code.
+- **Java:** deterministic analysis and regression tests.
+- **Open source:** scoped fixes with clear explanations.
+
+## Contributions
+
+### Selenium Boot Migrator
+
+[PR #41: Detect configuration loaded from .properties files](https://github.com/seleniumboot/selenium-boot-migrator/pull/41)
+
+Adds the MIG-019 manual-review finding, a report label, a fixture, and regression tests. Analysis only: the rule does not rewrite configuration.
+
+The link above is the source of truth for review and merge status.
+
+---
+
+<sub>A contribution-focused profile. No inflated stats, just work you can inspect.</sub>
